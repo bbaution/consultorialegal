@@ -30,7 +30,7 @@ const Banner = () => {
               rel="noopener noreferrer"
               initial="initial"
               animate="animate"
-              className=" bg-transparent text-[#0a88b6] inline-flex justify-center items-center w-full gap-2 p-3  text-xl"
+              className=" bg-transparent text-[#d29b44] inline-flex justify-center items-center w-full gap-2 p-3  text-xl"
             >
               <IoLogoInstagram className="text-2xl text-center" />
               consultoralegalvial
