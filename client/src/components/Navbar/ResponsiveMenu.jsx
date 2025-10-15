@@ -1,5 +1,5 @@
 
-import iconoFondoBlanco from "../../assets/iconoFondoBlanco.webp";
+import iconoFondoBlanco from "../../assets/iconoFondoBlanco1.webp";
 
 const ResponsiveMenu = ({ showMenu }) => {
   return (
